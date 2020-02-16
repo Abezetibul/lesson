@@ -1,0 +1,4 @@
+-finput-charset=utf-8 -fexec-charset=ibm866    ///конвертация c utf8
+
+
+ckkjkjcnjvn
